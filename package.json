@@ -1,6 +1,6 @@
 {
   "name": "react-native-orientation-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Listen to device orientation changes in React Native applications and programmatically set preferred orientations on a per screen basis",
   "main": "index.js",
   "types": "index.d.ts",
@@ -41,12 +41,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uciadonis/react-native-orientation-helper-helper.git"
+    "url": "git+https://github.com/uciadonis/react-native-orientation-helper.git"
   },
   "bugs": {
-    "url": "https://github.com/uciadonis/react-native-orientation-helper-helper/issues"
+    "url": "https://github.com/uciadonis/react-native-orientation-helper/issues"
   },
-  "homepage": "https://github.com/uciadonis/react-native-orientation-helper-helper#readme",
+  "homepage": "https://github.com/uciadonis/react-native-orientation-helper#readme",
   "rnpm": {
     "android": {
       "packageInstance": "new OrientationPackage()"
