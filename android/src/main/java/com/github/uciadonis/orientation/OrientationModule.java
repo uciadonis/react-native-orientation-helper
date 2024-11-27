@@ -8,6 +8,8 @@ import android.content.IntentFilter;
 import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;
 import android.util.Log;
+import android.os.Build;
+import androidx.annotation.RequiresApi;
 
 import com.facebook.common.logging.FLog;
 import com.facebook.react.bridge.Arguments;
